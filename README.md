@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi/你好 👋
+
+🔭  欢迎光临我的github数据  🏗🚧👷‍♂️
 
 <!--
 **CandyACE/CandyACE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![CandyACE's github stats](https://github-readme-stats.vercel.app/api?username=CandyACE)](https://github.com/CandyACE/ 'CandyACE')
