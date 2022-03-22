@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![CandyACE's github stats](https://github-readme-stats.vercel.app/api?username=CandyACE)](https://github.com/CandyACE/ 'CandyACE')
+[![CandyACE's github stats](https://github-readme-stats.vercel.app/api?username=CandyACE&count_private=true&show_icons=true)](https://github.com/CandyACE/ 'CandyACE')
+
+[![CandyACE's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandyACE)](https://github.com/CandyACE 'CandyACE')
